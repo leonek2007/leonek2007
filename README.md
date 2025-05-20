@@ -5,17 +5,6 @@
 📊 I’m also learning about **crypto**, **data analysis**, and **finance-related tools**  
 🧠 Always open to learning, improving, and collaborating on exciting projects
 
----
-
-### 🚀 Current projects
-- 🔧 `crypto-dashboard` – a cryptocurrency portfolio tracker with real-time prices  
-- 🧮 `currency-converter` – app using a public API to convert global currencies  
-- 📓 `notetaking-app` – a minimalist notes app with local storage  
-
----
-
-### 📌 Pinned projects
-Check out my pinned repositories below ⬇️
 
 ---
 
